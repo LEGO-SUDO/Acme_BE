@@ -1,5 +1,5 @@
 import express from 'express'
-import { signup } from '../Controller/Auth.js'
+import { signup } from '../controller/Auth.js'
 
 const router = express.Router()
 //Create a user
